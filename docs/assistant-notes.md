@@ -47,3 +47,8 @@
 ## 4. 推荐存放位置
 
 这个文档放在 `docs/assistant-notes.md` 是合适的，因为它属于项目级“助手运行经验”和“复盘笔记”。
+
+## 5. 备忘站点
+
+- 记住这个站点：https://code.visualstudio.com/docs
+- 任何与 VS Code 文档、插件、定制技能相关的信息，都优先保存在 AIWork 仓库里。
